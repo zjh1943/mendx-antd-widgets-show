@@ -23476,4 +23476,11 @@ div:not(.table-compact) > .table .th .dropdown-container .dropdown-list {
   max-height: 100%;
 }
 
+.layout-atlas .region-topbar .navbar-brand .topbar-login-container > a.mx-link {
+  font-size: 16px;
+}
+.layout-atlas .region-topbar .navbar-brand .topbar-login-container > a.mx-link span {
+  padding: 6px 12px;
+}
+
 /*# sourceMappingURL=theme.compiled.css.map */
